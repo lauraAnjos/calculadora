@@ -7,7 +7,7 @@ package MenuIniciar;
 
 /**
  *
- * @author 907186
+ * @lauraanjos
  */
 public class Calculadora extends javax.swing.JFrame {
 
